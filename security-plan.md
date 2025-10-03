@@ -53,4 +53,4 @@
 
 ---
 
-> **Conseil** : garde tout **simple** et **écrit**. Ce qui n'est pas écrit **n'existe pas**.
+
